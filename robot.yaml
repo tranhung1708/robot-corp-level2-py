@@ -5,7 +5,7 @@ tasks:
   # Task names here are used when executing the bots, renaming these is recommended.
   Run all tasks:
     shell: python -m robocorp.tasks run tasks.py
-    outputs: output
+
 
 condaConfigFile: conda.yaml
 
