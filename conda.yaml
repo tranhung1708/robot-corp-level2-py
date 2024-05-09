@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9.13                # https://pyreadiness.org/3.10
+  - pip=22.1.2                    # https://pip.pypa.io/en/stable/news
+  - pip:
+    - rpaframework==28.5.1        # https://rpaframework.org/releasenotes.html
+    - dop-rpaframework==1.2.4
+    - robocorp-browser==2.3.3
