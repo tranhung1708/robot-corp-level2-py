@@ -8,3 +8,4 @@ dependencies:
     - rpaframework==28.5.1        # https://rpaframework.org/releasenotes.html
     - dop-rpaframework==1.2.4
     - robocorp-browser==2.3.3
+    - pdfkit==1.0.0
